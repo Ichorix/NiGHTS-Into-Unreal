@@ -18,6 +18,10 @@
 		{
 			"Name": "EasyFixAndroidPermission",
 			"Enabled": true
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
 		}
 	]
 }
